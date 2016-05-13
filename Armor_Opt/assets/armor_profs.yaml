@@ -1,0 +1,181 @@
+Armors:
+  Padded:
+    armor: 1
+    maxac: 5
+    acpenalty: 0
+    spellfail: 0.95
+    armor_type: LA
+  QuiltedCloth:
+    armor: 1
+    maxac: 5
+    acpenalty: 0
+    spellfail: 0.9
+    armor_type: LA
+  LamellarCuirass:
+    armor: 2
+    maxac: 4
+    acpenalty: 0
+    spellfail: 0.95
+    armor_type: LA
+  Leather:
+    armor: 2
+    maxac: 5
+    acpenalty: 0
+    spellfail: 0.90
+    armor_type: LA
+  Parade:
+    armor: 3
+    maxac: 5
+    acpenalty: -1
+    spellfail: 0.85
+    armor_type: LA
+  StuddedLeather:
+    armor: 3
+    maxac: 5
+    acpenalty: -1
+    spellfail: 0.85
+    armor_type: LA
+  Wooden:
+    armor: 3
+    maxac: 3
+    acpenalty: -1
+    spellfail: 0.85
+    armor_type: LA
+  ChainShirt:
+    armor: 4
+    maxac: 4
+    acpenalty: -2
+    spellfail: 0.8
+    armor_type: LA
+  LamellarLeather:
+    armor: 4
+    maxac: 3
+    acpenalty: -2
+    spellfail: 0.8
+    armor_type: LA
+  ArmoredCoat:
+    armor: 4
+    maxac: 3
+    acpenalty: -2
+    spellfail: 0.8
+    armor_type: MA
+  Hide:
+    armor: 4
+    maxac: 4
+    acpenalty: -3
+    spellfail: 0.8
+    armor_type: MA
+  DoMaru:
+    armor: 5
+    maxac: 4
+    acpenalty: -4
+    spellfail: 0.75
+    armor_type: MA
+  Kikko:
+    armor: 5
+    maxac: 4
+    acpenalty: -3
+    spellfail: 0.8
+    armor_type: MA
+  LamellarHorn:
+    armor: 5
+    maxac: 3
+    acpenalty: -4
+    spellfail: 0.75
+    armor_type: MA
+  ScaleMail:
+    armor: 5
+    maxac: 3
+    acpenalty: -4
+    spellfail: 0.75
+    armor_type: MA
+  Breastplate:
+    armor: 6
+    maxac: 3
+    acpenalty: -4
+    spellfail: 0.75
+    armor_type: MA
+  Chainmail:
+    armor: 6
+    maxac: 2
+    acpenalty: -5
+    spellfail: 0.7
+    armor_type: MA
+  FourMirror:
+    armor: 6
+    maxac: 2
+    acpenalty: -5
+    spellfail: 0.7
+    armor_type: MA
+  LamellarSteel:
+    armor: 6
+    maxac: 3
+    acpenalty: -5
+    spellfail: 0.75
+    armor_type: MA
+  MountainPattern:
+    armor: 6
+    maxac: 3
+    acpenalty: -4
+    spellfail: 0.7
+    armor_type: MA
+  BandedMail:
+    armor: 7
+    maxac: 1
+    acpenalty: -6
+    spellfail: 0.65
+    armor_type: HA
+  KusariGusoku:
+    armor: 7
+    maxac: 1
+    acpenalty: -7
+    spellfail: 0.65
+    armor_type: HA
+  LamellarIron:
+    armor: 7
+    maxac: 0
+    acpenalty: -7
+    spellfail: 0.6
+    armor_type: HA
+  SplintMail:
+    armor: 7
+    maxac: 0
+    acpenalty: -7
+    spellfail: 0.6
+    armor_type: HA
+  TatamiDo:
+    armor: 7
+    maxac: 3
+    acpenalty: -6
+    spellfail: 0.65
+    armor_type: HA
+  HalfPlate:
+    armor: 8
+    maxac: 0
+    acpenalty: -7
+    spellfail:  0.6
+    armor_type: HA
+  LamellarStone:
+    armor: 8
+    maxac: 0
+    acpenalty: -7
+    spellfail: 0.6
+    armor_type: HA
+  O-Yoroi:
+    armor: 8
+    maxac: 2
+    acpenalty: -6
+    spellfail: 0.65
+    armor_type: HA
+  FullPlate:
+    armor: 9
+    maxac: 1
+    acpenalty: -6
+    spellfail: 0.65
+    armor_type: HA
+  Stoneplate:
+    armor: 9
+    maxac: 1
+    acpenalty: -6
+    spellfail: 0.65
+    armor_type: HA
